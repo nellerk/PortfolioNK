@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    border: solid 3px red;
+    border-radius: 10px;
+}
+
+div.harapos {
+    background-color: pink;   
+}
