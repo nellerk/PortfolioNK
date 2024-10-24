@@ -1,0 +1,94 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Dr. Németh Tamás",
+      "email": "tomuwhu@gmail.com",
+      "pw": "123"
+    },
+    {
+      "id": "2",
+      "name": "Borbola Patrik",
+      "email": "borbolapatrik@gmail.com",
+      "pw": "1234"
+    },
+    {
+      "id": "027f",
+      "name": "Gugán András",
+      "email": "gugandas@gmail.com",
+      "pw": "12345"
+    },
+    {
+      "id": "8a83",
+      "name": "Kiss Béla",
+      "email": "kissb12@gmail.com",
+      "pw": "123"
+    },
+    {
+      "id": "1b96",
+      "name": "NellerKristof",
+      "email": "coppertail62@gmail.com",
+      "pw": "+Admin1234+"
+    },
+    {
+      "id": "b231",
+      "name": "NellerKristof",
+      "email": "coppertail62@gmail.com",
+      "pw": "+Admin1234+"
+    }
+  ],
+  "car": [
+    {
+      "id": "1",
+      "brand": "Ford",
+      "type": "Mustang",
+      "year": "1964",
+      "price": "20000",
+      "stars": "4",
+      "tulaj": "1"
+    },
+    {
+      "id": "2",
+      "brand": "Chevrolet",
+      "type": "Camaro",
+      "year": "1969",
+      "price": "25000",
+      "stars": "5",
+      "tulaj": "2"
+    },
+    {
+      "id": "3",
+      "brand": "Nissan",
+      "type": "Skyline",
+      "year": "1972",
+      "price": "30000",
+      "stars": "3"
+    },
+    {
+      "id": "4",
+      "brand": "Toyota",
+      "type": "Supra",
+      "year": "1999",
+      "price": "40000",
+      "stars": "2"
+    },
+    {
+      "id": "e0db",
+      "brand": "Skoda",
+      "type": "Octavia",
+      "year": 2016,
+      "price": 2000,
+      "stars": 5,
+      "tulaj": "8a83"
+    },
+    {
+      "id": "900c",
+      "brand": "Tesla",
+      "type": "Model Y",
+      "year": 2024,
+      "price": 100000,
+      "stars": 3,
+      "tulaj": "1b96"
+    }
+  ]
+}
