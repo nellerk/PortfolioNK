@@ -81,17 +81,17 @@
  <style>
    svg {
       width: 100%;
-      height: auto; /* Ensures proportional scaling */
+      height: auto;
       position: absolute;
       left: 0;
       top: 50px;
-      overflow: hidden; /* Prevents content overflow */
+      overflow: hidden; 
    }
-   body {
+   /*body {
       margin: 0;
       padding: 0;
-      overflow-x: hidden; /* Prevents horizontal scrolling */
-   }
+      overflow-x: hidden; 
+   }*/
    .guess-box {
      position: fixed;
      bottom: 20px;
